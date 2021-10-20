@@ -1,6 +1,6 @@
-baseURL: https://maoze-porfolio.netlify.app/
+baseURL: https://maoze-li-web.netlify.app/
 languageCode: en-us
-title: Forty
+title: FORTY
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,9 +8,9 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Maoze Li. I am a current Masters in Financial Analysis student at London Business School
+      LBS MFA2022 | QUALIFIED ACCOUNTANT | FINANCE ENTHUSIASTIC | 
+      PRE- AUDITOR                   
+    title: Hi, my name is Maoze Li, a current Masters in Financial Analysis student at London Business School.
   blog: {}
   contact:
     address:
@@ -84,35 +84,33 @@ params:
       - image: accounting.PNG
         subtitle: ACCA affiliate member, ICAS TC member
         title: Accounting Professional
-        url:  blogs/aliquam
+        url:  blogs/acc
       - image: finance.jpg
         subtitle: Financial Modelling, Asset Management, Corporate Finance
         title: Finance Enthusiastic
-        url: blogs/tempus
+        url: blogs/risk_return
       - image: LBS.jpg
         subtitle: Postgraduate Studies in Financial Analysis
         title: London Business School
-        url: blogs/magna
+        url: blogs/brexit
       - image: EY.jpg
         subtitle: Pre Full-time Assurance Experience at EY
         title: Pre-EY
-        url: blogs/ipsum
+        url: blogs/ey
       - image: international.jpg
         subtitle: Gained internship experiences in multiple countries across the world
         title: International Business Experiences
-        url: blogs/ipsum
+        url: blogs/inter
       - image: volunteer.jpg
         subtitle: Passionate about giving back to the community
         title: Volunteer
-        url: blogs/ipsum
+        url: blogs/vol
   two:
-    buttonText: Get Started
+    buttonText: Maoze's Blogs
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "Besides the academic achievements and the spare-time hobbies, I am also actively seeking the career progressing opportunities
+      \r\n    As a post-graduate perultimate student at LBS, I am particulat interested in the M&A advisory roles and investment banking roles. \r\n   I also 
+      hold strong interests in the strategy consulting for financial institutionsm in particular PE industry. \r\n I am more than glad to be reached out if you have similar interests.\r\n    Looking forward
+      to receiving your messages."
+    title: Business Interests
     url: blogs
