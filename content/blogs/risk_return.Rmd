@@ -3,7 +3,7 @@ categories:
 - ""    #the front matter should be like the one found in, e.g., blog2.md. It cannot be like the normal Rmd we used
 - ""
 date: "2021-09-30"
-description: Stock Analysis- Risk-Return of DJIA stocks # the title that will show up once someone gets to this page
+description: Risk-Return of DJIA stocks # the title that will show up once someone gets to this page
 draft: false
 image: finance.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
@@ -152,6 +152,9 @@ myStocks_returns_monthly %>%
 
 ```
 
+We see that all the DJIA stocks are following similar patterns for monthly returns. It seems reasonable as stock performance is highly correlated with market conditions. For example, during expansion periods, equity market would normally go through a “bull market”, so it would be easy for the stocks to generate returns, while in bear markets, such returns are normally lower and can be negative even. This thus results into the similar distributions we are seeing.
+
+It is also worth noticing that even though stocks are following similar patterns, there are still differences in the exact returns they generate even at the same time. This can be quantified as “beta”, which is the correlation with the generally equity market. For example, for stocks with beta of 1, their movements are exactly with the market, while for stocks with beta of 2, the price movements would be the twice of market volatility.
 
 ```{r, risk_return, echo=FALSE}
 

@@ -1,4 +1,4 @@
-baseURL: https://maoze-li-web.netlify.app/
+baseURL: https://loving-joliot-24d946.netlify.app/
 languageCode: en-us
 title: FORTY
 theme: forty
@@ -109,8 +109,8 @@ params:
     buttonText: Maoze's Blogs
     enable: yes
     subtitle: "Besides the academic achievements and the spare-time hobbies, I am also actively seeking the career progressing opportunities
-      \r\n    As a post-graduate perultimate student at LBS, I am particulat interested in the M&A advisory roles and investment banking roles. \r\n   I also 
-      hold strong interests in the strategy consulting for financial institutionsm in particular PE industry. \r\n I am more than glad to be reached out if you have similar interests.\r\n    Looking forward
+      \r\n    As a post-graduate perultimate student at LBS, I am particularly interested in the M&A advisory roles and investment banking roles. \r\n   I also 
+      hold strong interests in the strategy consulting for financial institutions, in particular PE industry. \r\n I am more than glad to be reached out if you have similar interests.\r\n    Looking forward
       to receiving your messages."
     title: Business Interests
     url: blogs

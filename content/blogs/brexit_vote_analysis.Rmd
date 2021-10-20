@@ -5,7 +5,7 @@ categories:
 date: "2021-09-30"
 description: LBS MFA student experiences # the title that will show up once someone gets to this page
 draft: false
-image: LBS1.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+image: LBS2.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
 keywords: ""
 slug: brexit # slug is the shorthand URL address... no spaces plz
@@ -19,7 +19,7 @@ We collaborated and used R to analyse data and observe trends. Here is one of th
 ```{r}
 
 
-knitr::include_graphics("/img/LBS1.jpg",error =FALSE)
+knitr::include_graphics("/img/LBS.jpg",error =FALSE)
 
 ```
 
