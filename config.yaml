@@ -1,4 +1,4 @@
-baseURL: https://loving-joliot-24d946.netlify.app/
+baseURL: https://maozeliportfolio.netlify.app/
 languageCode: en-us
 title: FORTY
 theme: forty
@@ -10,7 +10,7 @@ params:
     subtitle: |-
       LBS MFA2022 | QUALIFIED ACCOUNTANT | FINANCE ENTHUSIASTIC | 
       PRE- AUDITOR                   
-    title: Hi, my name is Maoze Li, a current Masters in Financial Analysis student at London Business School.
+    title: Hi, my name is Maoze Li. Welcome to my personal portfolio website.
   blog: {}
   contact:
     address:
@@ -108,7 +108,7 @@ params:
   two:
     buttonText: Maoze's Blogs
     enable: yes
-    subtitle: "Besides the academic achievements and the spare-time hobbies, I am also actively seeking the career progressing opportunities
+    subtitle: "Apart from the academic achievements and the spare-time hobbies, I am also actively seeking career progressing opportunities in Financial Industry.
       \r\n    As a post-graduate perultimate student at LBS, I am particularly interested in the M&A advisory roles and investment banking roles. \r\n   I also 
       hold strong interests in the strategy consulting for financial institutions, in particular PE industry. \r\n I am more than glad to be reached out if you have similar interests.\r\n    Looking forward
       to receiving your messages."

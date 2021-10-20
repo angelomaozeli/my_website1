@@ -12,7 +12,7 @@ slug: ey # slug is the shorthand URL address... no spaces plz
 title: Pre-EY UKI Assurance Auditor
 ---
 
-Prior to joining LBS, I worked as an Assurance Associate at EY Birmingham, where I got the opportunity to serve 11 different annnual audit engagements from 6 different industries, including the Dignity.
+Prior to joining LBS, I worked as an Assurance Associate at EY Birmingham, where I got the opportunity to serve 11 different annual audit engagements from 6 different industries, including the Dignity.
 
 ```{r}
 

@@ -31,7 +31,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-I enjoyed contributing back to the community by participating social environment work.
+I enjoyed contributing back to the community by participating social impact activities and volunteer work to protect the environement.
 ```{r}
 knitr::include_graphics("/img/tfc.jpg",error =FALSE)
 
@@ -44,6 +44,6 @@ knitr::include_graphics("/img/volunteer.jpg",error =FALSE)
 
 ```
 
-While working at EY, I joined the colleagues to help the organisation planting and maintaining the trees in Richmond Park and other green areas in the outskirts for London. 
+While working at EY, I joined my colleagues to help the organisation planting and maintaining the trees in Richmond Park and other green areas in the outskirts for London. 
 
-Please join us together, making cities we live in greener, and making the world a better place!
+Please join us together, making the cities we live in greener, and making the world a better place!

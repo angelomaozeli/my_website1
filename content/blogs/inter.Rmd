@@ -24,7 +24,7 @@ knitr::include_graphics("/img/beijing.jpg",error =FALSE)
 
 ```
 
-At Beijing, I interned as an investment banking summer analyst at CITIC, the largest full-service Chinese investment bank.
+In Beijing, I interned as an investment banking summer analyst at CITIC Securities, the largest full-service Chinese investment bank.
 
 At CITIC, I 
 
@@ -46,7 +46,7 @@ knitr::include_graphics("/img/ox.jpg",error =FALSE)
 
 ```
 
-At Oxford, I worked as a part-time student editor for the accounting group of OUP (Oxford University Press).
+In Oxford, I worked as a part-time student editor for the accounting group of OUP (Oxford University Press).
 
 I contributed by doing the following for OUP 
 

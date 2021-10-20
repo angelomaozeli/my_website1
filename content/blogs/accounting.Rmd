@@ -20,9 +20,7 @@ During my undergraduate period, I have obtained the ACCA affiliate membership by
 After graduating from the undergraduate degree, I joined EY where I got the training under ICAS qualification. I completed 8 exams under ICAS qualification.
 
 I also hold the student membership of ICAEW.
-```
 
-```
 
 ```{r}
 
@@ -31,5 +29,5 @@ knitr::include_graphics("/img/accounting.PNG",error =FALSE)
 
 ```
 
-My accounting qualification and training laid a solid foundation for the finance studies in the future. I am familiar with IFRS and the standards for UK and international reporting guidelines and the corresponding Audit Standards.
+My accounting qualification and training laid a solid foundation for the finance studies in the future. I am familiar with IFRS and the accounting standards for UK and international reporting guidelines, as well as corresponding International Audit Standards.
 

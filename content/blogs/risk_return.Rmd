@@ -192,3 +192,7 @@ by_year_monthly %>%
   NULL
 
 ```
+However from 2019 to 2020, even though risks further increased (shifted to the right), returns seems to stay at the same level with 2019, or even lower. This is possibly due to the unexpected global COVID-19 pandemic, which caused negative market sentiments and thus large risk/volatility of the equity market.
+
+For some investors, they may want to pull out their investments from equity market, as the additional risks they take are not compensated accordingly.
+From 2020 to 2021, both returns and risks generally decrease, which suggests a calm-down equity market, by comparing to 2020. Also, 2017 seems to be the most suitable year for equity investing, due to the relatively higher level of returns while lower level of risks.

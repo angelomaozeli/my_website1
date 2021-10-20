@@ -12,9 +12,9 @@ slug: brexit # slug is the shorthand URL address... no spaces plz
 title: LBS Experiences
 ---
 
-I prefer looking forward instead of looking back. Therefore, I chose to step away from traditional assurance role and pursue further studies in LBS. The first month at LBS is particularly challenging but rewarding. The Data Analytics for Finance assignment really made me step out of my comfort zone from a non-quantitative role to being extremely analytically.
+I prefer looking forward instead of looking back. Therefore, I chose to step away from traditional assurance role and pursue further finance studies in LBS. The first month at LBS is particularly challenging but rewarding. The Data Analytics for Finance course really made me step out of my comfort zone and equipped me with the higher level of quantitative skills.
 
-We collaborated and used R to analyse data and observe trends. Here is one of the analysis project we learned at School.
+We collaborated and used R to analyse data and observe trends. Here is one of the analysis project we learned at LBS.
 
 ```{r}
 
